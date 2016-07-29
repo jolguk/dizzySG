@@ -6,7 +6,7 @@
 <%@ page import="java.sql.*,javax.naming.*,javax.sql.*" %>
 <FONT SIZE="5" COLOR="navy">
 <table>
-<tr><td><CENTER><b>JODizzyworld Singapore Center</b></CENTER></td></tr>
+<tr><td><CENTER><b>JOJODizzyworld Singapore Center</b></CENTER></td></tr>
 </table>
 
 
